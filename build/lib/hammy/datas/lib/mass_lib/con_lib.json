@@ -1,0 +1,2190 @@
+{
+    "Default": {
+        "RoofCeiling": "FD 1 Flachdach",
+        "Floor": "TD 1 Trenndecke",
+        "ExWall": "AW 1 Stb. WDVS (MW)",
+        "InWall": "IW 9 Stb. Innenputz/Spachtelung",
+        "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+        "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+        "GlsWall": "AW 15 Pfosten-Riegel Alu"
+    },
+    
+    "FacadeSys": [
+        "AW 5 LENO",
+        "AW 1 Stb. WDVS (MW)"
+    ],
+
+    "SlabSys": [
+        "GDe 76 Brettsperrholz (+Boden)",
+        "TD 1 Trenndecke"
+    ],
+    "InWallSys": [
+        "IW 4 LENO",
+        "IW 9 Stb. Innenputz/Spachtelung"
+    ],
+
+
+    
+    "Presets" : [
+      {
+        "RoofCeiling": "FD 1 Flachdach",
+        "Floor": "GDe 83 Holzhybriddecke (+Schuettung)",
+        "ExWall": "AW 7 Holzrahmen (MW) 0.237",
+        "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+        "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+        "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+        "GlsWall": "AW 15 Pfosten-Riegel Alu"
+      },
+      {
+        "RoofCeiling": "FD 1 Flachdach",
+        "Floor": "TD 1 Trenndecke",
+        "ExWall": "AW 7 Holzrahmen (MW) 0.237",
+        "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+        "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+        "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+        "GlsWall": "AW 15 Pfosten-Riegel Alu"
+      },
+      {
+        "RoofCeiling": "FD 1 Flachdach",
+        "Floor": "TD 1 Trenndecke",
+        "ExWall": "AW 2 Stb. WDVS (EPS) 0.152",
+        "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+        "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+        "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+        "GlsWall": "AW 15 Pfosten-Riegel Alu"
+      },
+      {
+        "RoofCeiling": "FD 1 Flachdach",
+        "Floor": "TD 1 Trenndecke",
+        "ExWall": "AW 2 Stb. WDVS (EPS) 0.152",
+        "InWall": "IW 1 GK (zweilagig) (EI 30)",
+        "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+        "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+        "GlsWall": "AW 15 Pfosten-Riegel Alu"
+      }
+    ],
+
+
+    "PureWood": {
+      "RoofCeiling": "FD 1 Flachdach",
+      "Floor": "GDe 83 Holzhybriddecke (+Schuettung)",
+      "ExWall": "AW 7 Holzrahmen (MW) 0.237",
+      "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+      "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+      "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+      "GlsWall": "AW 15 Pfosten-Riegel Alu"
+    },
+    "MoreWood": {
+      "RoofCeiling": "FD 1 Flachdach",
+      "Floor": "TD 1 Trenndecke",
+      "ExWall": "AW 7 Holzrahmen (MW) 0.237",
+      "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+      "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+      "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+      "GlsWall": "AW 15 Pfosten-Riegel Alu"
+    },
+    "MoreConcrete": {
+      "RoofCeiling": "FD 1 Flachdach",
+      "Floor": "TD 1 Trenndecke",
+      "ExWall": "AW 2 Stb. WDVS (EPS) 0.152",
+      "InWall": "IW 5 LENO GK (einlagig) (REI 60)",
+      "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+      "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+      "GlsWall": "AW 15 Pfosten-Riegel Alu"
+    },
+    "PureConcrete": {
+      "RoofCeiling": "FD 1 Flachdach",
+      "Floor": "TD 1 Trenndecke",
+      "ExWall": "AW 2 Stb. WDVS (EPS) 0.152",
+      "InWall": "IW 1 GK (zweilagig) (EI 30)",
+      "Window": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+      "GlsRoof": "AW 15 Pfosten-Riegel Alu",
+      "GlsWall": "AW 15 Pfosten-Riegel Alu"
+    },
+
+
+
+
+    "InsulationExWalls": [
+      "Putzmoertel-Waermedaemmputz(Dicke: 0.02m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.12m",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.2m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.24m)",
+      "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.12m)",
+      "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.19m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.1m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.17m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.16m)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.22m)",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+      "EPS-Hartschaum(Rohdichte 15kg/m3)(Dicke: 0.3m)"
+    ],
+    "ConPart": {
+        "RoofCeiling": {
+            "Retention": [
+                "DK B2 (Warmdach mit Begruenung/ Retentionsdach)",
+                "DK B4 (Umkehrdach mit Begruenung extensiv)"
+            ],
+            "Normal": [
+                "DK B1 (Warmdach mit Bitumen. Kies)",
+                "DK B3 (Umkehrdach mit Kies)",
+                "FD 1 Flachdach"
+            ]
+        },
+        "Floor": {
+            "Stahlbeton": [
+                "GDe 5 Flachdecke",
+                "GDe 10 Flachdecke (8.1 m)",
+                "GDe 12 Flachdecke (8.1 m)"
+            ],
+            "Holz": [
+                "GDe 76 Brettsperrholz (+Boden)",
+                "GDe 80 Holzbetonverbunddecke (+Schuettung)",
+                "GDe 83 Holzhybriddecke (+Schuettung)"
+            ]
+        },
+        "ExWall": {
+            "Stahlbeton": [
+                "AW 1 Stb. WDVS (MW)",
+                "AW 2 Stb. WDVS (EPS) 0.152",
+                "AW 3 Stb. WDVS (EPS) 0.233",
+                "AW 4 Stb. VHF (Naturwerkstein)"
+            ],
+            "Holz": [
+                "AW 5 LENO",
+                "AW 6 Holzrahmen (MW) 0.152",
+                "AW 7 Holzrahmen (MW) 0.237",
+                "AW 8 Holzrahmen (Zellulose) 0.153",
+                "AW 9 Holzrahmen (Zellulose) 0.226"
+            ],
+            "Mauerwerk": [
+                "AW 10 Kalksandstein",
+                "AW 11 Ziegel WDVS (MW) 0.152",
+                "AW 12 Poroton S WDVS (MW) 0.233",
+                "AW 13 Ziegel WDVS (MW) 0.233",
+                "AW 14 Poroton S (Daemmputz) 0.238"
+            ]
+        },
+        "InWall": {
+            "Stahlbeton": [
+                "IW 9 Stb. Innenputz/Spachtelung",
+                "IW 10 Stb.-Fertigteil u. Fliesen"
+            ],
+            "Holz": [
+                "IW 4 LENO",
+                "IW 5 LENO GK (einlagig) (REI 60)",
+                "IW 6 Lindner Logic 100"
+            ],
+            "GKB": [
+                "IW 1 GK (zweilagig) (EI 30)",
+                "IW 2 GK (dreilagig) (EI 90)",
+                "IW 3 GK (zweilagig) (EI 90)"
+            ],
+            "Mauerwerk": [
+                "IW 11 Kalksandstein"
+            ],
+            "Glas": [
+                "IW 7 Lindner Life Stereo 125 (ESG)",
+                "IW 8 Lindner Life Stereo 125 (VSG)"
+            ]
+        },
+        "Window": {
+          "Alu": [
+            "FE 1 Aluminium Fenster mit 3-Fach Verglasung"
+          ]
+        },
+        "GlassWall": {
+          "Alu": [
+            "AW 15 Pfosten-Riegel Alu"
+          ]
+        }
+    },
+    "ConstructionSet": [
+        {
+          "identifier": "DefaultConstrSystem", 
+          "air_boundary_construction": null, 
+          "shade_construction": null, 
+          "roof_ceiling_set": {
+              "ground_construction": null, 
+              "interior_construction": null, 
+              "exterior_construction": "FD 1 Flachdach", 
+              "type": "RoofCeilingConstructionSetAbridged"
+          }, 
+          "wall_set": {
+              "ground_construction": "AW 7 Holzrahmen (MW) 0.237", 
+              "interior_construction": "IW 5 LENO GK (einlagig) (REI 60)", 
+              "exterior_construction": "AW 7 Holzrahmen (MW) 0.237", 
+              "type": "WallConstructionSetAbridged"
+          }, 
+          "door_set": {
+              "overhead_construction": null, 
+              "interior_glass_construction": null, 
+              "exterior_glass_construction": null, 
+              "type": "DoorConstructionSetAbridged", 
+              "interior_construction": null, 
+              "exterior_construction": null
+          }, 
+          "floor_set": {
+              "ground_construction": "GDe 83 Holzhybriddecke (+Schuettung)", 
+              "interior_construction": null, 
+              "exterior_construction": "GDe 83 Holzhybriddecke (+Schuettung)", 
+              "type": "FloorConstructionSetAbridged"
+          }, 
+          "type": "ConstructionSetAbridged", 
+          "aperture_set": {
+              "skylight_construction": "AW 15 Pfosten-Riegel Alu", 
+              "type": "ApertureConstructionSetAbridged", 
+              "interior_construction": null, 
+              "operable_construction": null, 
+              "window_construction": "FE 1 Aluminium Fenster mit 3-Fach Verglasung"
+          }
+      }, 
+      {
+        "identifier": "DefaultConstrSystem", 
+        "air_boundary_construction": null, 
+        "shade_construction": null, 
+        "roof_ceiling_set": {
+            "ground_construction": null, 
+            "interior_construction": null, 
+            "exterior_construction": "FD 1 Flachdach", 
+            "type": "RoofCeilingConstructionSetAbridged"
+        }, 
+        "wall_set": {
+            "ground_construction": "AW 7 Holzrahmen (MW) 0.237", 
+            "interior_construction": "IW 5 LENO GK (einlagig) (REI 60)", 
+            "exterior_construction": "AW 7 Holzrahmen (MW) 0.237", 
+            "type": "WallConstructionSetAbridged"
+        }, 
+        "door_set": {
+            "overhead_construction": null, 
+            "interior_glass_construction": null, 
+            "exterior_glass_construction": null, 
+            "type": "DoorConstructionSetAbridged", 
+            "interior_construction": null, 
+            "exterior_construction": null
+        }, 
+        "floor_set": {
+            "ground_construction": "TD 1 Trenndecke", 
+            "interior_construction": null, 
+            "exterior_construction": "TD 1 Trenndecke", 
+            "type": "FloorConstructionSetAbridged"
+        }, 
+        "type": "ConstructionSetAbridged", 
+        "aperture_set": {
+            "skylight_construction": "AW 15 Pfosten-Riegel Alu", 
+            "type": "ApertureConstructionSetAbridged", 
+            "interior_construction": null, 
+            "operable_construction": null, 
+            "window_construction": "FE 1 Aluminium Fenster mit 3-Fach Verglasung"
+        }
+      }, 
+      {
+        "identifier": "DefaultConstrSystem", 
+        "air_boundary_construction": null, 
+        "shade_construction": null, 
+        "roof_ceiling_set": {
+            "ground_construction": null, 
+            "interior_construction": null, 
+            "exterior_construction": "FD 1 Flachdach", 
+            "type": "RoofCeilingConstructionSetAbridged"
+        }, 
+        "wall_set": {
+            "ground_construction": "AW 2 Stb. WDVS (EPS) 0.152", 
+            "interior_construction": "IW 5 LENO GK (einlagig) (REI 60)", 
+            "exterior_construction": "AW 2 Stb. WDVS (EPS) 0.152", 
+            "type": "WallConstructionSetAbridged"
+        }, 
+        "door_set": {
+            "overhead_construction": null, 
+            "interior_glass_construction": null, 
+            "exterior_glass_construction": null, 
+            "type": "DoorConstructionSetAbridged", 
+            "interior_construction": null, 
+            "exterior_construction": null
+        }, 
+        "floor_set": {
+            "ground_construction": "TD 1 Trenndecke", 
+            "interior_construction": null, 
+            "exterior_construction": "TD 1 Trenndecke", 
+            "type": "FloorConstructionSetAbridged"
+        }, 
+        "type": "ConstructionSetAbridged", 
+        "aperture_set": {
+            "skylight_construction": "AW 15 Pfosten-Riegel Alu", 
+            "type": "ApertureConstructionSetAbridged", 
+            "interior_construction": null, 
+            "operable_construction": null, 
+            "window_construction": "FE 1 Aluminium Fenster mit 3-Fach Verglasung"
+        }
+    }, 
+      {
+          "identifier": "DefaultConstrSystem", 
+          "air_boundary_construction": null, 
+          "shade_construction": null, 
+          "roof_ceiling_set": {
+              "ground_construction": null, 
+              "interior_construction": null, 
+              "exterior_construction": "FD 1 Flachdach", 
+              "type": "RoofCeilingConstructionSetAbridged"
+          }, 
+          "wall_set": {
+              "ground_construction": "AW 2 Stb. WDVS (EPS) 0.152", 
+              "interior_construction": "IW 1 GK (zweilagig) (EI 30)", 
+              "exterior_construction": "AW 2 Stb. WDVS (EPS) 0.152", 
+              "type": "WallConstructionSetAbridged"
+          }, 
+          "door_set": {
+              "overhead_construction": null, 
+              "interior_glass_construction": null, 
+              "exterior_glass_construction": null, 
+              "type": "DoorConstructionSetAbridged", 
+              "interior_construction": null, 
+              "exterior_construction": null
+          }, 
+          "floor_set": {
+              "ground_construction": "TD 1 Trenndecke", 
+              "interior_construction": null, 
+              "exterior_construction": "TD 1 Trenndecke", 
+              "type": "FloorConstructionSetAbridged"
+          }, 
+          "type": "ConstructionSetAbridged", 
+          "aperture_set": {
+              "skylight_construction": "AW 15 Pfosten-Riegel Alu", 
+              "type": "ApertureConstructionSetAbridged", 
+              "interior_construction": null, 
+              "operable_construction": null, 
+              "window_construction": "FE 1 Aluminium Fenster mit 3-Fach Verglasung"
+          }
+      }
+    ],
+
+    "Construction": {
+        "AW 15 Pfosten-Riegel Alu": {
+          "type": "WindowConstructionAbridged",
+           "identifier": "AW 15 Pfosten-Riegel Alu",
+            "materials": [
+              "Pfosten/Riegelsystem aus Aluminium mit Dreifachverglasung Fassade"
+            ]
+        },
+        "FE 1 Aluminium Fenster mit 3-Fach Verglasung": {
+           "type": "WindowConstructionAbridged",
+           "identifier": "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+            "materials": [
+              "Dreifachverglasung (Dicke: 0.036 m)"
+            ]
+        },
+        "AW 14 Poroton S (Daemmputz) 0.238": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 14 Poroton S (Daemmputz) 0.238",
+            "materials": [
+              "Putzmoertel-Waermedaemmputz(Dicke: 0.02m)",
+              "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 13 Ziegel WDVS (MW) 0.233": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 13 Ziegel WDVS (MW) 0.233",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.12m)",
+              "Mauerziegel (ungefuellt)(Dicke: 0.24m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 12 Poroton S WDVS (MW) 0.233": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 12 Poroton S WDVS (MW) 0.233",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+              "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.1m)",
+              "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 11 Ziegel WDVS (MW) 0.152": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 11 Ziegel WDVS (MW) 0.152",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.2m)",
+              "Mauerziegel (ungefuellt)(Dicke: 0.24m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 10 Kalksandstein": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 10 Kalksandstein",
+            "materials": [
+              "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.24m)",
+              "Kalksandstein(Dicke: 0.24m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)"
+            ]
+          },
+          "AW 9 Holzrahmen (Zellulose) 0.226": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 9 Holzrahmen (Zellulose) 0.226",
+            "materials": [
+              "Aluminiumblech(Dicke: 0.002m)",
+              "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)",
+              "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.12m)",
+              "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+              "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "AW 8 Holzrahmen (Zellulose) 0.153": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 8 Holzrahmen (Zellulose) 0.153",
+            "materials": [
+              "Aluminiumblech(Dicke: 0.002m)",
+              "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)",
+              "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.19m)",
+              "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+              "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "AW 7 Holzrahmen (MW) 0.237": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 7 Holzrahmen (MW) 0.237",
+            "materials": [
+              "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)",
+              "Faserzementplatte(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.1m)",
+              "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.036m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "AW 6 Holzrahmen (MW) 0.152": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 6 Holzrahmen (MW) 0.152",
+            "materials": [
+              "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)",
+              "Faserzementplatte(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.17m)",
+              "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.054m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "AW 5 LENO": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 5 LENO",
+            "materials": [
+              "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+              "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)"
+            ]
+          },
+          "AW 4 Stb. VHF (Naturwerkstein)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 4 Stb. VHF (Naturwerkstein)",
+            "materials": [
+              "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.16m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 3 Stb. WDVS (EPS) 0.233": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 3 Stb. WDVS (EPS) 0.233",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+              "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+              "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 2 Stb. WDVS (EPS) 0.152": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 2 Stb. WDVS (EPS) 0.152",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+              "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.22m)",
+              "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "AW 1 Stb. WDVS (MW)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 1 Stb. WDVS (MW)",
+            "materials": [
+              "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "GDe 5 Flachdecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 5 Flachdecke",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+          "GDe 10 Flachdecke (8.1 m)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 10 Flachdecke (8.1 m)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)"
+            ]
+          },
+          "GDe 12 Flachdecke (8.1 m)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 12 Flachdecke (8.1 m)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.015m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.28m)"
+            ]
+          },
+          "GDe 21 Flachdecke (Hohlkoerper)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 21 Flachdecke (Hohlkoerper)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+          "GDe 30 Flachdecke (8.1 m) (Hohlkoerper)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 30 Flachdecke (8.1 m) (Hohlkoerper)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.225m)"
+            ]
+          },
+          "GDe 32 Flachdecke (8.1 m) (Hohlkoerper)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 32 Flachdecke (8.1 m) (Hohlkoerper)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.127m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.21m)"
+            ]
+          },
+          "GDe 36 Unterzugdecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 36 Unterzugdecke",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)"
+            ]
+          },
+          "GDe 44 Unterzugdecke (Hohlkoerper)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 44 Unterzugdecke (Hohlkoerper)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)"
+            ]
+          },
+          "GDe 52 Elementdecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 52 Elementdecke",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)",
+              "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)"
+            ]
+          },
+          "GDe 60 Elementdecke (Hohlkoerper)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 60 Elementdecke (Hohlkoerper)",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)",
+              "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)"
+            ]
+          },
+          "GDe 66 Spannbeton Hohldielen": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 66 Spannbeton Hohldielen",
+            "materials": [
+              "Beton der Druckfestigkeitsklasse C 45/55(Dicke: 0.1108m)",
+              "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.138m)"
+            ]
+          },
+          "GDe 69 Rippendecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 69 Rippendecke",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.075m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)"
+            ]
+          },
+          "GDe 74 Kassettendecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 74 Kassettendecke",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)"
+            ]
+          },
+          "GDe 83 Holzhybriddecke (+Schuettung)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 83 Holzhybriddecke (+Schuettung)",
+            "materials": [
+              "Splitt 2/15 (getrocknet)(Dicke: 0.001m)",
+              "Brettsperrholz (Durchschnitt DE)(Dicke: 0.2m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.12m)"
+            ]
+          },
+          "GDe 80 Holzbetonverbunddecke (+Schuettung)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 80 Holzbetonverbunddecke (+Schuettung)",
+            "materials": [
+              "Splitt 2/15 (getrocknet)(Dicke: 0.001m)",
+              "Brettschichtholz - Sonderformen (Durchschnitt DE)(Dicke: 0.048m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.16m)"
+            ]
+          },
+          "GDe 76 Brettsperrholz (+Boden)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "GDe 76 Brettsperrholz (+Boden)",
+            "materials": [
+              "Zementestrich(Dicke: 0.06m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.04m)",
+              "Rigips GaBi Bauplatte RB - 15 mm(Dicke: 0.015m)",
+              "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.0125m)",
+              "Brettsperrholz (Durchschnitt DE)(Dicke: 0.26m)"
+            ]
+          },
+          "IW 1 GK (zweilagig) (EI 30)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 1 GK (zweilagig) (EI 30)",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)",
+              "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "IW 2 GK (dreilagig) (EI 90)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 2 GK (dreilagig) (EI 90)",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)"
+            ]
+          },
+          "IW 3 GK (zweilagig) (EI 90)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 3 GK (zweilagig) (EI 90)",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)"
+            ]
+          },
+          "IW 4 LENO": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 4 LENO",
+            "materials": [
+              "Brettsperrholz (Durchschnitt DE)(Dicke: 0.1m)"
+            ]
+          },
+          "IW 5 LENO GK (einlagig) (REI 60)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 5 LENO GK (einlagig) (REI 60)",
+            "materials": [
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+              "Brettsperrholz (Durchschnitt DE)(Dicke: 0.08m)",
+              "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)"
+            ]
+          },
+          "IW 6 Lindner Logic 100": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 6 Lindner Logic 100",
+            "materials": [
+              "Spanplatte. melaminbeschichtet(Dicke: 0.013m)",
+              "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)",
+              "Spanplatte. melaminbeschichtet(Dicke: 0.013m)"
+            ]
+          },
+          "IW 7 Lindner Life Stereo 125 (ESG)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 7 Lindner Life Stereo 125 (ESG)",
+            "materials": [
+              "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)",
+              "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)"
+            ]
+          },
+          "IW 8 Lindner Life Stereo 125 (VSG)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 8 Lindner Life Stereo 125 (VSG)",
+            "materials": [
+              "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)",
+              "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)"
+            ]
+          },
+          "IW 9 Stb. Innenputz/Spachtelung": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 9 Stb. Innenputz/Spachtelung",
+            "materials": [
+              "Gipsputz (Gips)(Dicke: 0.01m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)",
+              "Gipsputz (Gips)(Dicke: 0.01m)"
+            ]
+          },
+          "IW 10 Stb.-Fertigteil u. Fliesen": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 10 Stb.-Fertigteil u. Fliesen",
+            "materials": [
+              "Steinzeugfliesen glasiert (Dicke 0.01 m)(Dicke: 0.01m)",
+              "Fliesenkleber(Dicke: 0.0001m)",
+              "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)"
+            ]
+          },
+          "IW 11 Kalksandstein": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "IW 11 Kalksandstein",
+            "materials": [
+              "Kunstharzputz(Dicke: 0.002m)",
+              "Kalksandstein(Dicke: 0.115m)",
+              "Kunstharzputz(Dicke: 0.002m)"
+            ]
+          },
+          "DK B1 (Warmdach mit Bitumen. Kies)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "DK B1 (Warmdach mit Bitumen. Kies)",
+            "materials": [
+              "Kies 2/32(Dicke: 0.005m)",
+              "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)",
+              "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+              "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)",
+              "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+          "DK B2 (Warmdach mit Begruenung/ Retentionsdach)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "DK B2 (Warmdach mit Begruenung/ Retentionsdach)",
+            "materials": [
+              "Vegetationssubstrat(Dicke: 0.05m)",
+              "PE/PP Vlies(Dicke: 0.0005m)",
+              "Blaehschiefer(Dicke: 0.05m)",
+              "PE/PP Vlies(Dicke: 0.0005m)",
+              "PVC-Dachbahnen (Dicke 0.0012 m)(Dicke: 0.0012m)",
+              "PU-Daemmplatten mit Mineralvlies-Deckschicht(Dicke: 0.08m)",
+              "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)",
+              "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+          "DK B3 (Umkehrdach mit Kies)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "DK B3 (Umkehrdach mit Kies)",
+            "materials": [
+              "Kies 2/32(Dicke: 0.005m)",
+              "PE/PP Vlies(Dicke: 0.0005m)",
+              "Styrodur(R)(Dicke: 0.14m)",
+              "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.004m)",
+              "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+          "DK B4 (Umkehrdach mit Begruenung extensiv)": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "DK B4 (Umkehrdach mit Begruenung extensiv)",
+            "materials": [
+              "Vegetationssubstrat(Dicke: 0.05m)",
+              "PE/PP Vlies(Dicke: 0.0005m)",
+              "Blaehschiefer(Dicke: 0.05m)",
+              "PE/PP Vlies(Dicke: 0.0005m)",
+              "Styrodur(R)(Dicke: 0.14m)",
+              "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)",
+              "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+              "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)"
+            ]
+          },
+        "FD 1 Flachdach": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "FD 1 Flachdach",
+            "materials": [
+              "Spannbeton-Fertigteildecken(Dicke: 0.25m)",
+              "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.004m)",
+              "EPS-Hartschaum(Rohdichte 15kg/m3)(Dicke: 0.3m)",
+              "Bitumenbahnen PYE PV 200 S5(ungeschiefert)(Dicke 0.004m)(Dicke: 0.01m)",
+              "Glasvlies(Dicke: 0.003m)",
+              "Kies 2/32 getrocknet(Dicke: 0.06m)"
+            ]
+          },
+          "Typical Air Wall": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "Typical Air Wall",
+            "materials": [
+              "Typical Air Wall"
+            ]
+          },
+          "TWU 2 Trennwand Trockenbau": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "TWU 2 Trennwand Trockenbau",
+            "materials": [
+              "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)",
+              "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)",
+              "Mineralwolle(Innenaubau-Daemmung)(Dicke: 0.04m)",
+              "Stahlprofil(Dicke: 0.06m)",
+              "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)",
+              "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)"
+            ]
+          },
+          "TWU 1 Trennwand Stb": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "TWU 1 Trennwand Stb",
+            "materials": [
+              "Gipsputz(Dicke: 0.01m)",
+              "Betonfertigteil Wand 12cm(Dicke: 0.25m)",
+              "Gipsputz(Dicke: 0.01m)"
+            ]
+          },
+          "TD 1 Trenndecke": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "TD 1 Trenndecke",
+            "materials": [
+              "TAKE A WALK - getuftete Teppichfliesen(Dicke: 0.01m)",
+              "Zementestrich(Dicke: 0.06m)",
+              "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.0002m)",
+              "Holzfaserdaemmplatten(Dicke: 0.025m)",
+              "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.06m)",
+              "Spannbeton-Fertigteildecken(TD)(Dicke: 0.25m)"
+            ]
+          },
+          "FG 1 Bodenplatte gegen erdreich EG": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "FG 1 Bodenplatte gegen erdreich EG",
+            "materials": [
+              "TAKE A WALK - getuftete Teppichfliesen(Dicke: 0.01m)",
+              "Zementestrich(Dicke: 0.06m)",
+              "Bewehrungsstahl(Dicke: 0.02m)",
+              "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.0002m)",
+              "Holzfaserdaemmplatten(Dicke: 0.02m)",
+              "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.08m)",
+              "Transportbeton C20/25(Dicke: 0.15m)",
+              "Elastomer Fugenbaender.Polyurethan(Dicke: 0.004m)",
+              "XPS-Daemmstoff(Dicke: 0.008m)"
+            ]
+          },
+          "AW 1a Aussenwand Holz Leno 15cm WDVS": {
+            "type": "OpaqueConstructionAbridged",
+            "identifier": "AW 1a Aussenwand Holz Leno 15cm WDVS",
+            "materials": [
+              "Brettsperrholz(LENO-Massivwand)(Dicke: 0.15m)",
+              "Mineralwolle(Fassaden-Daemmung)(Dicke: 0.24m)",
+              "Kalkzement Putzmoertel(Dicke: 0.01m)"
+            ]
+          }
+      },
+
+    "Material": {
+        "Pfosten/Riegelsystem aus Aluminium mit Dreifachverglasung Fassade": {
+          "shgc": 0.40000000000000002, 
+          "vt": 0.59999999999999998, 
+          "identifier": "Pfosten/Riegelsystem aus Aluminium mit Dreifachverglasung Fassade", 
+          "u_factor": 2.839, 
+          "type": "EnergyWindowMaterialSimpleGlazSys"
+      },
+        "Dreifachverglasung (Dicke: 0.036 m)": {
+          "shgc": 0.38, 
+          "vt": 0.59999999999999998, 
+          "identifier": "Dreifachverglasung (Dicke: 0.036 m)", 
+          "u_factor": 2.0440800000000001, 
+          "type": "EnergyWindowMaterialSimpleGlazSys"
+      },
+        "Putzmoertel-Waermedaemmputz(Dicke: 0.02m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Putzmoertel-Waermedaemmputz(Dicke: 0.02m)",
+          "roughness": "MediumRough",
+          "thickness": 0.02,
+          "conductivity": 0.7,
+          "density": 2322.005309227381,
+          "specific_heat": 831.4635397241673,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.365,
+          "conductivity": 0.08,
+          "density": 575.0,
+          "specific_heat": 589.6195774486317,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.3,
+          "visible_absorptance": 0.3
+        },
+        "Gipsputz (Gips)(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Gipsputz (Gips)(Dicke: 0.01m)",
+          "roughness": "Smooth",
+          "thickness": 0.01,
+          "conductivity": 0.2,
+          "density": 1000.0,
+          "specific_heat": 1089.29718545594,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.5
+        },
+        "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+          "roughness": "MediumRough",
+          "thickness": 0.01,
+          "conductivity": 0.01,
+          "density": 1855.102485,
+          "specific_heat": 836.8200836820084,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.12m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.12m)",
+          "roughness": "MediumRough",
+          "thickness": 0.12,
+          "conductivity": 0.038,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Mauerziegel (ungefuellt)(Dicke: 0.24m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Mauerziegel (ungefuellt)(Dicke: 0.24m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.24,
+          "conductivity": 0.21,
+          "density": 575.0,
+          "specific_heat": 589.6195774486317,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.3,
+          "visible_absorptance": 0.3
+        },
+        "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.1m)": {
+          "type": "EnergyMaterial",
+          "identifier": "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.1m)",
+          "roughness": "Smooth",
+          "thickness": 0.1,
+          "conductivity": 0.037,
+          "density": 20.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.2m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.2m)",
+          "roughness": "MediumRough",
+          "thickness": 0.2,
+          "conductivity": 0.038,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)",
+          "roughness": "MediumRough",
+          "thickness": 0.03,
+          "conductivity": 1.2,
+          "density": 2700.0,
+          "specific_heat": 790.0,
+          "thermal_absorptance": 0.96,
+          "solar_absorptance": 0.55,
+          "visible_absorptance": 0.55
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.24m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.24m)",
+          "roughness": "MediumRough",
+          "thickness": 0.24,
+          "conductivity": 0.0476,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Kalksandstein(Dicke: 0.24m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Kalksandstein(Dicke: 0.24m)",
+          "roughness": "MediumRough",
+          "thickness": 0.24,
+          "conductivity": 1.6,
+          "density": 1800.0,
+          "specific_heat": 789.4906206515565,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.0125,
+          "conductivity": 0.6,
+          "density": 800.0,
+          "specific_heat": 1089.29718545594,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Aluminiumblech(Dicke: 0.002m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Aluminiumblech(Dicke: 0.002m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.002,
+          "conductivity": 150.0,
+          "density": 2700.0,
+          "specific_heat": 418.1302223805201,
+          "thermal_absorptance": 0.75,
+          "solar_absorptance": 0.45,
+          "visible_absorptance": 0.6000000000000001
+        },
+        "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)",
+          "roughness": "MediumRough",
+          "thickness": 0.015,
+          "conductivity": 0.18,
+          "density": 500.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.5
+        },
+        "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.12m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.12m)",
+          "roughness": "Smooth",
+          "thickness": 0.12,
+          "conductivity": 0.046,
+          "density": 45.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+          "roughness": "Smooth",
+          "thickness": 0.01,
+          "conductivity": 0.15,
+          "density": 500.0,
+          "specific_heat": 1882.845188284519,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)",
+          "roughness": "MediumRough",
+          "thickness": 0.054,
+          "conductivity": 0.047,
+          "density": 45.0,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.6000000000000001,
+          "visible_absorptance": 0.6000000000000001
+        },
+        "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.025,
+          "conductivity": 0.6,
+          "density": 800.0,
+          "specific_heat": 1089.29718545594,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.19m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.19m)",
+          "roughness": "Smooth",
+          "thickness": 0.19,
+          "conductivity": 0.046,
+          "density": 45.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)",
+          "roughness": "MediumRough",
+          "thickness": 0.02,
+          "conductivity": 1.0,
+          "density": 2322.005309227381,
+          "specific_heat": 831.4635397241673,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Faserzementplatte(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Faserzementplatte(Dicke: 0.01m)",
+          "roughness": "MediumRough",
+          "thickness": 0.01,
+          "conductivity": 0.6,
+          "density": 1300.0,
+          "specific_heat": 839.4583814522887,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.5,
+          "visible_absorptance": 0.5
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.1m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.1m)",
+          "roughness": "MediumRough",
+          "thickness": 0.1,
+          "conductivity": 0.0476,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.036m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.036m)",
+          "roughness": "MediumRough",
+          "thickness": 0.036,
+          "conductivity": 0.0476,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.17m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.17m)",
+          "roughness": "MediumRough",
+          "thickness": 0.17,
+          "conductivity": 0.042,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.054m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.054m)",
+          "roughness": "MediumRough",
+          "thickness": 0.054,
+          "conductivity": 0.042,
+          "density": 96.0,
+          "specific_heat": 1129.70711297071,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.8
+        },
+        "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.05,
+          "conductivity": 0.15,
+          "density": 661.0,
+          "specific_heat": 1628.94900210384,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.5,
+          "visible_absorptance": 0.5
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+          "roughness": "MediumRough",
+          "thickness": 0.2,
+          "conductivity": 0.046,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)",
+          "roughness": "Smooth",
+          "thickness": 0.09,
+          "conductivity": 0.15,
+          "density": 500.0,
+          "specific_heat": 1882.845188284519,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.16m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.16m)",
+          "roughness": "MediumRough",
+          "thickness": 0.16,
+          "conductivity": 0.038,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+          "roughness": "MediumRough",
+          "thickness": 0.3,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)": {
+          "type": "EnergyMaterial",
+          "identifier": "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+          "roughness": "Smooth",
+          "thickness": 0.14,
+          "conductivity": 0.037,
+          "density": 20.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)",
+          "roughness": "MediumRough",
+          "thickness": 0.2,
+          "conductivity": 1.5,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.22m)": {
+          "type": "EnergyMaterial",
+          "identifier": "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.22m)",
+          "roughness": "Smooth",
+          "thickness": 0.22,
+          "conductivity": 0.037,
+          "density": 20.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)",
+          "roughness": "MediumRough",
+          "thickness": 0.01,
+          "conductivity": 0.01,
+          "density": 1855.102485,
+          "specific_heat": 836.8200836820084,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+          "roughness": "MediumRough",
+          "thickness": 0.22,
+          "conductivity": 0.038,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+          "roughness": "MediumRough",
+          "thickness": 0.28,
+          "conductivity": 1.5,
+          "density": 2399.8205,
+          "specific_heat": 832.0199665271966,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.015m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.015m)",
+          "roughness": "MediumRough",
+          "thickness": 0.015,
+          "conductivity": 2.1,
+          "density": 832.019966527197,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.28m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.28m)",
+          "roughness": "MediumRough",
+          "thickness": 0.28,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.225m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.225m)",
+          "roughness": "MediumRough",
+          "thickness": 0.225,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.127m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.127m)",
+          "roughness": "MediumRough",
+          "thickness": 0.127,
+          "conductivity": 2.3,
+          "density": 832.019966527197,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.21m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.21m)",
+          "roughness": "MediumRough",
+          "thickness": 0.21,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)",
+          "roughness": "MediumRough",
+          "thickness": 0.24,
+          "conductivity": 1.5,
+          "density": 2399.8205,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)",
+          "roughness": "MediumRough",
+          "thickness": 0.18,
+          "conductivity": 1.5,
+          "density": 2399.8205,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)",
+          "roughness": "MediumRough",
+          "thickness": 0.06,
+          "conductivity": 2.3,
+          "density": 2399.8205,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 45/55(Dicke: 0.1108m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 45/55(Dicke: 0.1108m)",
+          "roughness": "MediumRough",
+          "thickness": 0.1108,
+          "conductivity": 2.3,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.138m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.138m)",
+          "roughness": "MediumRough",
+          "thickness": 0.138,
+          "conductivity": 2.3,
+          "density": 832.019966527197,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.075m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.075m)",
+          "roughness": "MediumRough",
+          "thickness": 0.075,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)",
+          "roughness": "MediumRough",
+          "thickness": 0.1,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Splitt 2/15 (getrocknet)(Dicke: 0.001m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Splitt 2/15 (getrocknet)(Dicke: 0.001m)",
+          "roughness": "Rough",
+          "thickness": 0.001,
+          "conductivity": 0.7,
+          "density": 1555.0,
+          "specific_heat": 800.0,
+          "thermal_absorptance": 0.85,
+          "solar_absorptance": 0.65,
+          "visible_absorptance": 0.65
+        },
+        "Brettsperrholz (Durchschnitt DE)(Dicke: 0.2m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.2m)",
+          "roughness": "Smooth",
+          "thickness": 0.2,
+          "conductivity": 0.13,
+          "density": 544.0012438499998,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.12m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.12m)",
+          "roughness": "MediumRough",
+          "thickness": 0.12,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Brettschichtholz - Sonderformen (Durchschnitt DE)(Dicke: 0.048m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettschichtholz - Sonderformen (Durchschnitt DE)(Dicke: 0.048m)",
+          "roughness": "Smooth",
+          "thickness": 0.048,
+          "conductivity": 0.13,
+          "density": 544.0012438499998,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.16m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.16m)",
+          "roughness": "MediumRough",
+          "thickness": 0.16,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Zementestrich(Dicke: 0.06m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Zementestrich(Dicke: 0.06m)",
+          "roughness": "MediumRough",
+          "thickness": 0.06,
+          "conductivity": 1.4,
+          "density": 2000.0,
+          "specific_heat": 920.5020920502092,
+          "thermal_absorptance": 0.75,
+          "solar_absorptance": 0.92,
+          "visible_absorptance": 0.75
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.04m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.04m)",
+          "roughness": "MediumRough",
+          "thickness": 0.04,
+          "conductivity": 0.04,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Rigips GaBi Bauplatte RB - 15 mm(Dicke: 0.015m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Rigips GaBi Bauplatte RB - 15 mm(Dicke: 0.015m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.015,
+          "conductivity": 0.25,
+          "density": 800.0018291911765,
+          "specific_heat": 1089.297185455941,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.0125m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.0125m)",
+          "roughness": "MediumRough",
+          "thickness": 0.0125,
+          "conductivity": 0.6,
+          "density": 640.74,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.5
+        },
+        "Brettsperrholz (Durchschnitt DE)(Dicke: 0.26m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.26m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.26,
+          "conductivity": 0.13,
+          "density": 349.9,
+          "specific_heat": 1213.389121338912,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)",
+          "roughness": "MediumRough",
+          "thickness": 0.025,
+          "conductivity": 0.6,
+          "density": 640.74,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.5
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)",
+          "roughness": "MediumRough",
+          "thickness": 0.06,
+          "conductivity": 0.04,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.0375,
+          "conductivity": 0.6,
+          "density": 800.0,
+          "specific_heat": 1089.29718545594,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)": {
+          "type": "EnergyMaterial",
+          "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+          "roughness": "MediumRough",
+          "thickness": 0.06,
+          "conductivity": 0.13,
+          "density": 96.0,
+          "specific_heat": 1129.707112970711,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.8
+        },
+        "Brettsperrholz (Durchschnitt DE)(Dicke: 0.1m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.1m)",
+          "roughness": "Smooth",
+          "thickness": 0.1,
+          "conductivity": 0.13,
+          "density": 544.0012438499998,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Brettsperrholz (Durchschnitt DE)(Dicke: 0.08m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.08m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.08,
+          "conductivity": 0.13,
+          "density": 350.0,
+          "specific_heat": 1213.389121338912,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Spanplatte. melaminbeschichtet(Dicke: 0.013m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Spanplatte. melaminbeschichtet(Dicke: 0.013m)",
+          "roughness": "Smooth",
+          "thickness": 0.013000000000000001,
+          "conductivity": 0.12,
+          "density": 544.0012438499998,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Flachglas - PRESS GLASS Holdung SA - Einscheibensicherheitsglas(Dicke: 0.006m)",
+          "roughness": "Smooth",
+          "thickness": 0.006,
+          "conductivity": 1.3,
+          "density": 2500.0,
+          "specific_heat": 409.7356385659975,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)",
+          "roughness": "MediumRough",
+          "thickness": 0.25,
+          "conductivity": 2.1,
+          "density": 2200.0,
+          "specific_heat": 832.019966527197,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.7
+        },
+        "Steinzeugfliesen glasiert (Dicke 0.01 m)(Dicke: 0.01m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Steinzeugfliesen glasiert (Dicke 0.01 m)(Dicke: 0.01m)",
+          "roughness": "MediumRough",
+          "thickness": 0.01,
+          "conductivity": 1.0,
+          "density": 1920.004390058833,
+          "specific_heat": 789.4906206515565,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Fliesenkleber(Dicke: 0.0001m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Fliesenkleber(Dicke: 0.0001m)",
+          "roughness": "MediumRough",
+          "thickness": 0.0001,
+          "conductivity": 1.0,
+          "density": 45.0,
+          "specific_heat": 1209.219811377699,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Kunstharzputz(Dicke: 0.002m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Kunstharzputz(Dicke: 0.002m)",
+          "roughness": "MediumRough",
+          "thickness": 0.002,
+          "conductivity": 0.7,
+          "density": 640.74,
+          "specific_heat": 1129.70711297071,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7,
+          "visible_absorptance": 0.5
+        },
+        "Kalksandstein(Dicke: 0.115m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Kalksandstein(Dicke: 0.115m)",
+          "roughness": "MediumRough",
+          "thickness": 0.115,
+          "conductivity": 1.6,
+          "density": 1800.0,
+          "specific_heat": 789.4906206515565,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Kies 2/32(Dicke: 0.005m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Kies 2/32(Dicke: 0.005m)",
+          "roughness": "MediumRough",
+          "thickness": 0.005,
+          "conductivity": 3.0,
+          "density": 2700.0,
+          "specific_heat": 790.0,
+          "thermal_absorptance": 0.96,
+          "solar_absorptance": 0.55,
+          "visible_absorptance": 0.55
+        },
+        "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)",
+          "roughness": "VeryRough",
+          "thickness": 0.008,
+          "conductivity": 0.04,
+          "density": 1120.002560867648,
+          "specific_heat": 1259.187572178427,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)",
+          "roughness": "MediumRough",
+          "thickness": 0.004,
+          "conductivity": 0.75,
+          "density": 2360.0,
+          "specific_heat": 920.0,
+          "thermal_absorptance": 0.93,
+          "solar_absorptance": 0.87,
+          "visible_absorptance": 0.87
+        },
+        "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+          "roughness": "MediumRough",
+          "thickness": 0.003,
+          "conductivity": 0.75,
+          "density": 2360.0,
+          "specific_heat": 920.0,
+          "thermal_absorptance": 0.93,
+          "solar_absorptance": 0.87,
+          "visible_absorptance": 0.87
+        },
+        "Vegetationssubstrat(Dicke: 0.05m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Vegetationssubstrat(Dicke: 0.05m)",
+          "roughness": "VeryRough",
+          "thickness": 0.05,
+          "conductivity": 0.035,
+          "density": 91.0002080704965,
+          "specific_heat": 836.4603158042426,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "PE/PP Vlies(Dicke: 0.0005m)": {
+          "type": "EnergyMaterial",
+          "identifier": "PE/PP Vlies(Dicke: 0.0005m)",
+          "roughness": "MediumRough",
+          "thickness": 0.0005,
+          "conductivity": 0.043,
+          "density": 91.0002080704965,
+          "specific_heat": 836.4603158042426,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.5,
+          "visible_absorptance": 0.5
+        },
+        "Blaehschiefer(Dicke: 0.05m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Blaehschiefer(Dicke: 0.05m)",
+          "roughness": "VeryRough",
+          "thickness": 0.05,
+          "conductivity": 3.0,
+          "density": 2700.0,
+          "specific_heat": 790.0,
+          "thermal_absorptance": 0.96,
+          "solar_absorptance": 0.55,
+          "visible_absorptance": 0.55
+        },
+        "PVC-Dachbahnen (Dicke 0.0012 m)(Dicke: 0.0012m)": {
+          "type": "EnergyMaterial",
+          "identifier": "PVC-Dachbahnen (Dicke 0.0012 m)(Dicke: 0.0012m)",
+          "roughness": "MediumRough",
+          "thickness": 0.0012,
+          "conductivity": 0.084,
+          "density": 641.3803214581126,
+          "specific_heat": 501.7562706534101,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "PU-Daemmplatten mit Mineralvlies-Deckschicht(Dicke: 0.08m)": {
+          "type": "EnergyMaterial",
+          "identifier": "PU-Daemmplatten mit Mineralvlies-Deckschicht(Dicke: 0.08m)",
+          "roughness": "Smooth",
+          "thickness": 0.08,
+          "conductivity": 0.16,
+          "density": 784.9017946651944,
+          "specific_heat": 829.4648292921422,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.4,
+          "visible_absorptance": 0.4
+        },
+        "Styrodur(R)(Dicke: 0.14m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Styrodur(R)(Dicke: 0.14m)",
+          "roughness": "MediumSmooth",
+          "thickness": 0.14,
+          "conductivity": 0.06,
+          "density": 325.0,
+          "specific_heat": 589.6195774486317,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.3,
+          "visible_absorptance": 0.3
+        },
+        "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.004m)": {
+          "type": "EnergyMaterial",
+          "identifier": "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.004m)",
+          "roughness": "VeryRough",
+          "thickness": 0.004,
+          "conductivity": 0.04,
+          "density": 1120.002560867648,
+          "specific_heat": 1259.187572178427,
+          "thermal_absorptance": 0.9,
+          "solar_absorptance": 0.7000000000000001,
+          "visible_absorptance": 0.7000000000000001
+        },
+        "Typical Air Wall": {
+            "type": "EnergyMaterialNoMass",
+            "identifier": "Typical Air Wall",
+            "roughness": "MediumRough",
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001,
+            "r_value": 0.028222222242667
+          },
+          "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Gipskartonplatte(Feuerschutz)(Dicke 0.0125m)(Dicke: 0.0125m)",
+            "roughness": "Smooth",
+            "thickness": 0.0125,
+            "conductivity": 0.21,
+            "density": 700.0,
+            "specific_heat": 829.4648292921422,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.5
+          },
+          "Mineralwolle(Innenaubau-Daemmung)(Dicke: 0.04m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Mineralwolle(Innenaubau-Daemmung)(Dicke: 0.04m)",
+            "roughness": "MediumSmooth",
+            "thickness": 0.04,
+            "conductivity": 0.04,
+            "density": 20.0,
+            "specific_heat": 1129.707112970711,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Stahlprofil(Dicke: 0.06m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Stahlprofil(Dicke: 0.06m)",
+            "roughness": "MediumRough",
+            "thickness": 0.06,
+            "conductivity": 0.5799993101869491,
+            "density": 7820.552070000001,
+            "specific_heat": 502.092050209205,
+            "thermal_absorptance": 0.85,
+            "solar_absorptance": 0.37,
+            "visible_absorptance": 0.85
+          },
+          "Gipsputz(Dicke: 0.01m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Gipsputz(Dicke: 0.01m)",
+            "roughness": "Smooth",
+            "thickness": 0.01,
+            "conductivity": 0.4,
+            "density": 1000.0,
+            "specific_heat": 1089.297185455941,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.5
+          },
+          "Betonfertigteil Wand 12cm(Dicke: 0.25m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Betonfertigteil Wand 12cm(Dicke: 0.25m)",
+            "roughness": "MediumRough",
+            "thickness": 0.25,
+            "conductivity": 2.1,
+            "density": 2400.0,
+            "specific_heat": 831.4635397241673,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "TAKE A WALK - getuftete Teppichfliesen(Dicke: 0.01m)": {
+            "type": "EnergyMaterial",
+            "identifier": "TAKE A WALK - getuftete Teppichfliesen(Dicke: 0.01m)",
+            "roughness": "VeryRough",
+            "thickness": 0.01,
+            "conductivity": 0.06,
+            "density": 200.0,
+            "specific_heat": 1300.0,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.8
+          },
+          "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.0002m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.0002m)",
+            "roughness": "VeryRough",
+            "thickness": 0.0002,
+            "conductivity": 0.33,
+            "density": 920.0,
+            "specific_heat": 1459.058615381356,
+            "thermal_absorptance": 0.75,
+            "solar_absorptance": 0.45,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Holzfaserdaemmplatten(Dicke: 0.025m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Holzfaserdaemmplatten(Dicke: 0.025m)",
+            "roughness": "MediumRough",
+            "thickness": 0.025,
+            "conductivity": 0.035,
+            "density": 90.0,
+            "specific_heat": 836.4603158042426,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.5,
+            "visible_absorptance": 0.5
+          },
+          "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.06m)": {
+            "type": "EnergyMaterial",
+            "identifier": "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.06m)",
+            "roughness": "MediumSmooth",
+            "thickness": 0.06,
+            "conductivity": 0.035,
+            "density": 20.0,
+            "specific_heat": 1129.707112970711,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Spannbeton-Fertigteildecken(TD)(Dicke: 0.25m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Spannbeton-Fertigteildecken(TD)(Dicke: 0.25m)",
+            "roughness": "MediumRough",
+            "thickness": 0.25,
+            "conductivity": 1.5,
+            "density": 1800.0,
+            "specific_heat": 911.4119570053389,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Bewehrungsstahl(Dicke: 0.02m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Bewehrungsstahl(Dicke: 0.02m)",
+            "roughness": "MediumRough",
+            "thickness": 0.02,
+            "conductivity": 0.5799993101869491,
+            "density": 7800.0,
+            "specific_heat": 450.0,
+            "thermal_absorptance": 0.85,
+            "solar_absorptance": 0.37,
+            "visible_absorptance": 0.85
+          },
+          "Holzfaserdaemmplatten(Dicke: 0.02m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Holzfaserdaemmplatten(Dicke: 0.02m)",
+            "roughness": "MediumRough",
+            "thickness": 0.02,
+            "conductivity": 0.035,
+            "density": 90.0,
+            "specific_heat": 836.4603158042426,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.5,
+            "visible_absorptance": 0.5
+          },
+          "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.08m)": {
+            "type": "EnergyMaterial",
+            "identifier": "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.08m)",
+            "roughness": "MediumSmooth",
+            "thickness": 0.08,
+            "conductivity": 0.035,
+            "density": 20.0,
+            "specific_heat": 1129.707112970711,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Transportbeton C20/25(Dicke: 0.15m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Transportbeton C20/25(Dicke: 0.15m)",
+            "roughness": "MediumRough",
+            "thickness": 0.15,
+            "conductivity": 2.1,
+            "density": 2400.0,
+            "specific_heat": 831.4635397241673,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Elastomer Fugenbaender.Polyurethan(Dicke: 0.004m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Elastomer Fugenbaender.Polyurethan(Dicke: 0.004m)",
+            "roughness": "Rough",
+            "thickness": 0.004,
+            "conductivity": 0.23,
+            "density": 1100.0,
+            "specific_heat": 1459.058615381356,
+            "thermal_absorptance": 0.75,
+            "solar_absorptance": 0.45,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "XPS-Daemmstoff(Dicke: 0.008m)": {
+            "type": "EnergyMaterial",
+            "identifier": "XPS-Daemmstoff(Dicke: 0.008m)",
+            "roughness": "MediumRough",
+            "thickness": 0.008,
+            "conductivity": 0.037,
+            "density": 30.0,
+            "specific_heat": 1209.219811377699,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.6000000000000001,
+            "visible_absorptance": 0.6000000000000001
+          },
+          "Spannbeton-Fertigteildecken(Dicke: 0.25m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Spannbeton-Fertigteildecken(Dicke: 0.25m)",
+            "roughness": "MediumRough",
+            "thickness": 0.25,
+            "conductivity": 2.1,
+            "density": 1800.0,
+            "specific_heat": 911.4119570053389,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.004m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Dampfbremse PE(Dicke 0.0002m)(Dicke: 0.004m)",
+            "roughness": "VeryRough",
+            "thickness": 0.004,
+            "conductivity": 0.17,
+            "density": 1150.0,
+            "specific_heat": 1459.058615381356,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "EPS-Hartschaum(Rohdichte 15kg/m3)(Dicke: 0.3m)": {
+            "type": "EnergyMaterial",
+            "identifier": "EPS-Hartschaum(Rohdichte 15kg/m3)(Dicke: 0.3m)",
+            "roughness": "MediumSmooth",
+            "thickness": 0.3,
+            "conductivity": 0.035,
+            "density": 20.0,
+            "specific_heat": 1129.707112970711,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Bitumenbahnen PYE PV 200 S5(ungeschiefert)(Dicke 0.004m)(Dicke: 0.01m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Bitumenbahnen PYE PV 200 S5(ungeschiefert)(Dicke 0.004m)(Dicke: 0.01m)",
+            "roughness": "VeryRough",
+            "thickness": 0.01,
+            "conductivity": 0.17,
+            "density": 1100.0,
+            "specific_heat": 1259.187572178427,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Glasvlies(Dicke: 0.003m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Glasvlies(Dicke: 0.003m)",
+            "roughness": "MediumRough",
+            "thickness": 0.003,
+            "conductivity": 0.05,
+            "density": 70.0,
+            "specific_heat": 2300.0,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.5,
+            "visible_absorptance": 0.5
+          },
+          "Kies 2/32 getrocknet(Dicke: 0.06m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Kies 2/32 getrocknet(Dicke: 0.06m)",
+            "roughness": "Rough",
+            "thickness": 0.06,
+            "conductivity": 2.0,
+            "density": 1800.0,
+            "specific_heat": 963.5,
+            "thermal_absorptance": 0.85,
+            "solar_absorptance": 0.65,
+            "visible_absorptance": 0.65
+          },
+          "Brettsperrholz(LENO-Massivwand)(Dicke: 0.15m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Brettsperrholz(LENO-Massivwand)(Dicke: 0.15m)",
+            "roughness": "Smooth",
+            "thickness": 0.15,
+            "conductivity": 0.13,
+            "density": 500.0,
+            "specific_heat": 1209.219811377699,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Mineralwolle(Fassaden-Daemmung)(Dicke: 0.24m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Mineralwolle(Fassaden-Daemmung)(Dicke: 0.24m)",
+            "roughness": "MediumSmooth",
+            "thickness": 0.24,
+            "conductivity": 0.035,
+            "density": 20.0,
+            "specific_heat": 1129.707112970711,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.7000000000000001
+          },
+          "Kalkzement Putzmoertel(Dicke: 0.01m)": {
+            "type": "EnergyMaterial",
+            "identifier": "Kalkzement Putzmoertel(Dicke: 0.01m)",
+            "roughness": "Smooth",
+            "thickness": 0.01,
+            "conductivity": 1.0,
+            "density": 1800.0,
+            "specific_heat": 836.4603158042426,
+            "thermal_absorptance": 0.9,
+            "solar_absorptance": 0.7000000000000001,
+            "visible_absorptance": 0.92
+          }
+      }
+}

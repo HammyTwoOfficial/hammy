@@ -1,0 +1,2405 @@
+{
+  "FE 1 Aluminium Fenster mit 3-Fach Verglasung": [
+    [
+      "Dreifachverglasung (Dicke: 0.036 m)",
+      "Dreifachverglasung (Dicke: 0.036 m)",
+      30,
+      0.036,
+      1.0
+    ],
+    [
+      "Verglasungsrahmen (Aluminium)",
+      "Verglasungsrahmen (Aluminium)",
+      50,
+      0.09,
+      4.4
+    ]
+  ],
+
+  "AW 15 Pfosten-Riegel Alu": [
+    [
+      "Pfosten/Riegelsystem aus Aluminium mit Dreifachverglasung Fassade",
+      "Pfosten/Riegelsystem aus Aluminium mit Dreifachverglasung Fassade",
+      50,
+      0.25,
+      1.0
+    ]
+  ],
+  
+  "AW 14 Poroton S (Daemmputz) 0.238": [
+    [
+      "Fassadenfarbe Dispersionsfarbe",
+      "Fassadenfarbe Dispersionsfarbe(Dicke: 0.0001m)",
+      15,
+      0.0001,
+      0.4
+    ],
+    [
+      "Putzmoertel-Waermedaemmputz",
+      "Putzmoertel-Waermedaemmputz(Dicke: 0.02m)",
+      45,
+      0.02,
+      4.44
+    ],
+    [
+      "Mauerziegel (mit Daemmstoff gefuellt)",
+      "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)",
+      50,
+      0.365,
+      0.365
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 13 Ziegel WDVS (MW) 0.233": [
+    [
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch",
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.12m)",
+      40,
+      0.12,
+      0.12
+    ],
+    [
+      "Mauerziegel (ungefuellt)",
+      "Mauerziegel (ungefuellt)(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.24
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 12 Poroton S WDVS (MW) 0.233": [
+    [
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch",
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.1m)",
+      40,
+      0.1,
+      0.1
+    ],
+    [
+      "Mauerziegel (mit Daemmstoff gefuellt)",
+      "Mauerziegel (mit Daemmstoff gefuellt)(Dicke: 0.365m)",
+      50,
+      0.365,
+      0.365
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 11 Ziegel WDVS (MW) 0.152": [
+    [
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch",
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.2m)",
+      40,
+      0.2,
+      0.2
+    ],
+    [
+      "Mauerziegel (ungefuellt)",
+      "Mauerziegel (ungefuellt)(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.24
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 10 Kalksandstein": [
+    [
+      "Natursteinplatte. hart. Fassade (Dicke 0.030 m)",
+      "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)",
+      50,
+      0.03,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.24
+    ],
+    [
+      "Kalksandstein",
+      "Kalksandstein(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.24
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 9 Holzrahmen (Zellulose) 0.226": [
+    [
+      "Eloxiertes Aluminiumblech",
+      "Eloxiertes Aluminiumblech(Dicke: 0.002m)",
+      40,
+      0.002,
+      1.0
+    ],
+    [
+      "Eloxiertes Aluminiumblech",
+      "Eloxiertes Aluminiumblech(Dicke: 0.002m)",
+      50,
+      0.002,
+      5.4
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.03m)",
+      50,
+      0.03,
+      0.003
+    ],
+    [
+      "Mitteldichte Faserplatte (Durchschnitt DE)",
+      "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)",
+      50,
+      0.015,
+      0.015
+    ],
+    [
+      "Zellulosefaser Einblas-Daemmstoff",
+      "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.12m)",
+      50,
+      0.12,
+      0.119
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.14m)",
+      50,
+      0.14,
+      0.021
+    ],
+    [
+      "Oriented Strand Board (Durchschnitt DE)",
+      "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Holzfaserdaemmplatte (Nassverfahren)",
+      "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)",
+      50,
+      0.054,
+      0.036
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.04m)",
+      50,
+      0.04,
+      0.004
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Eloxiertes Aluminiumblech",
+      "Eloxiertes Aluminiumblech(Dicke: 0.002m)",
+      40,
+      0.002,
+      1.0
+    ]
+  ],
+  "AW 8 Holzrahmen (Zellulose) 0.153": [
+    [
+      "Eloxiertes Aluminiumblech",
+      "Eloxiertes Aluminiumblech(Dicke: 0.002m)",
+      50,
+      0.002,
+      5.4
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.03m)",
+      50,
+      0.03,
+      0.003
+    ],
+    [
+      "Mitteldichte Faserplatte (Durchschnitt DE)",
+      "Mitteldichte Faserplatte (Durchschnitt DE)(Dicke: 0.015m)",
+      50,
+      0.015,
+      0.015
+    ],
+    [
+      "Zellulosefaser Einblas-Daemmstoff",
+      "Zellulosefaser Einblas-Daemmstoff(Dicke: 0.19m)",
+      50,
+      0.19,
+      0.19
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.22m)",
+      50,
+      0.22,
+      0.03
+    ],
+    [
+      "Oriented Strand Board (Durchschnitt DE)",
+      "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Holzfaserdaemmplatte (Nassverfahren)",
+      "Holzfaserdaemmplatte (Nassverfahren)(Dicke: 0.054m)",
+      50,
+      0.054,
+      0.05
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.01
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 7 Holzrahmen (MW) 0.237": [
+    [
+      "Fassadenfarbe Dispersionsfarbe",
+      "Fassadenfarbe Dispersionsfarbe(Dicke: 0.01m)",
+      15,
+      0.01,
+      0.4
+    ],
+    [
+      "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften",
+      "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)",
+      40,
+      0.02,
+      0.02
+    ],
+    [
+      "Glasarmierungsgitter",
+      "Glasarmierungsgitter(Dicke: 0.0001m)",
+      40,
+      0.0001,
+      1.1
+    ],
+    [
+      "Kalkputzmoertel",
+      "Kalkputzmoertel(Dicke: 0.0001m)",
+      40,
+      0.0001,
+      0.0001
+    ],
+    [
+      "Faserzementplatte",
+      "Faserzementplatte(Dicke: 0.01m)",
+      50,
+      0.01,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.1m)",
+      50,
+      0.1,
+      0.1
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.12m)",
+      50,
+      0.12,
+      0.018
+    ],
+    [
+      "Oriented Strand Board (Durchschnitt DE)",
+      "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.036m)",
+      50,
+      0.036,
+      0.036
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.04m)",
+      50,
+      0.04,
+      0.004
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 6 Holzrahmen (MW) 0.152": [
+    [
+      "Fassadenfarbe Dispersionsfarbe",
+      "Fassadenfarbe Dispersionsfarbe(Dicke: 0.01m)",
+      15,
+      0.01,
+      0.4
+    ],
+    [
+      "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften",
+      "Putzmoertel-Normalputz/Edelputz mit besonderen Eigenschaften(Dicke: 0.02m)",
+      40,
+      0.02,
+      0.02
+    ],
+    [
+      "Faserzementplatte",
+      "Faserzementplatte(Dicke: 0.01m)",
+      50,
+      0.01,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.17m)",
+      50,
+      0.17,
+      0.17
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.2m)",
+      50,
+      0.2,
+      0.03
+    ],
+    [
+      "Oriented Strand Board (Durchschnitt DE)",
+      "Oriented Strand Board (Durchschnitt DE)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.054m)",
+      50,
+      0.054,
+      0.054
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.006
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 5 LENO": [
+    [
+      "Nadelschnittholz - frisch (Durchschnitt DE)",
+      "Nadelschnittholz - frisch (Durchschnitt DE)(Dicke: 0.05m)",
+      30,
+      0.05,
+      0.02
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.03m)",
+      50,
+      0.03,
+      0.0036
+    ],
+    [
+      "Konstruktionsvollholz (Durchschnitt DE)",
+      "Konstruktionsvollholz (Durchschnitt DE)(Dicke: 0.03m)",
+      50,
+      0.03,
+      0.0036
+    ],
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      50,
+      0.0005,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+      40,
+      0.2,
+      0.2
+    ],
+    [
+      "Brettsperrholz (Durchschnitt DE)",
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)",
+      50,
+      0.09,
+      0.09
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 4 Stb. VHF (Naturwerkstein)": [
+    [
+      "Natursteinplatte. hart. Fassade (Dicke 0.030 m)",
+      "Natursteinplatte. hart. Fassade (Dicke 0.030 m)(Dicke: 0.03m)",
+      50,
+      0.03,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.16m)",
+      40,
+      0.16,
+      0.16
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      34.5
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+      50,
+      0.3,
+      0.3
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ]
+  ],
+  "AW 3 Stb. WDVS (EPS) 0.233": [
+    [
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch",
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+      40,
+      0.14,
+      0.14
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      23.0
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 20/25",
+      "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)",
+      50,
+      0.2,
+      0.2
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 2 Stb. WDVS (EPS) 0.152": [
+    [
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch",
+      "WDVS Verklebung und Beschichtung Dekorputz mineralisch(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.22m)",
+      40,
+      0.22,
+      0.22
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      23.0
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 20/25",
+      "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.2m)",
+      50,
+      0.2,
+      0.2
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "AW 1 Stb. WDVS (MW)": [
+    [
+      "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz",
+      "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)",
+      40,
+      0.01,
+      1.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+      40,
+      0.22,
+      0.16
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      34.5
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+      50,
+      0.3,
+      0.3
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "GDe 83 Holzhybriddecke (+Schuettung)": [
+    [
+      "Splitt 2/15 (getrocknet)",
+      "Splitt 2/15 (getrocknet)(Dicke: 0.001m)",
+      50,
+      0.001,
+      92.5
+    ],
+    [
+      "Brettsperrholz (Durchschnitt DE)",
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.2m)",
+      50,
+      0.2,
+      0.1999
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.12m)",
+      50,
+      0.12,
+      0.1181
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C30/37(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.0319
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      15.0062
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      4.6093
+    ],
+    [
+      "Befestigungsmittel/Schrauben verzinkt",
+      "Befestigungsmittel/Schrauben verzinkt(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.6201
+    ]
+  ],
+  "GDe 80 Holzbetonverbunddecke (+Schuettung)": [
+    [
+      "Splitt 2/15 (getrocknet)",
+      "Splitt 2/15 (getrocknet)(Dicke: 0.001m)",
+      50,
+      0.001,
+      92.5
+    ],
+    [
+      "Brettschichtholz - Sonderformen (Durchschnitt DE)",
+      "Brettschichtholz - Sonderformen (Durchschnitt DE)(Dicke: 0.048m)",
+      50,
+      0.048,
+      0.048
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.16m)",
+      50,
+      0.16,
+      0.1581
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C30/37(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.0319
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      15.0062
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      4.6093
+    ],
+    [
+      "Befestigungsmittel/Schrauben verzinkt",
+      "Befestigungsmittel/Schrauben verzinkt(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.6201
+    ]
+  ],
+  "GDe 76 Brettsperrholz (+Boden)": [
+    [
+      "Zementestrich",
+      "Zementestrich(Dicke: 0.06m)",
+      50,
+      0.06,
+      160.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.04m)",
+      50,
+      0.04,
+      0.04
+    ],
+    [
+      "Rigips GaBi Bauplatte RB - 15 mm",
+      "Rigips GaBi Bauplatte RB - 15 mm(Dicke: 0.015m)",
+      50,
+      0.015,
+      1.0
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm",
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ],
+    [
+      "Brettsperrholz (Durchschnitt DE)",
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.26m)",
+      50,
+      0.26,
+      0.2567
+    ],
+    [
+      "Brettschichtholz - Sonderformen (Durchschnitt DE)",
+      "Brettschichtholz - Sonderformen (Durchschnitt DE)(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.0334
+    ],
+    [
+      "Befestigungsmittel/Schrauben verzinkt",
+      "Befestigungsmittel/Schrauben verzinkt(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.6201
+    ]
+  ],
+  "GDe 74 Kassettendecke": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)",
+      50,
+      0.1,
+      0.0983
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)",
+      50,
+      0.1,
+      0.0963
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C30/37(Dicke: 0.18m)",
+      50,
+      0.18,
+      0.0177
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      33.0715
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.8189
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.2
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ]
+  ],
+  "GDe 69 Rippendecke": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.1m)",
+      50,
+      0.1,
+      0.0977
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.075m)",
+      50,
+      0.075,
+      0.0754
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C30/37(Dicke: 0.18m)",
+      50,
+      0.18,
+      0.0242
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      31.0046
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      4.32
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ]
+  ],
+  "GDe 66 Spannbeton Hohldielen": [
+    [
+      "Beton der Druckfestigkeitsklasse C 45/55",
+      "Beton der Druckfestigkeitsklasse C 45/55(Dicke: 0.1108m)",
+      50,
+      0.1108,
+      0.1108
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 20/25",
+      "Beton der Druckfestigkeitsklasse C 20/25(Dicke: 0.138m)",
+      50,
+      0.138,
+      0.0138
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C30/37(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.0288
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      4.0099
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      3.6172
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      3.3278
+    ]
+  ],
+  "GDe 60 Elementdecke (Hohlkoerper)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)",
+      50,
+      0.18,
+      0.1784
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 35/45",
+      "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.0136
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      26.4365
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      5.2914
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.4965
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.88
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.5
+    ]
+  ],
+  "GDe 52 Elementdecke": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.18m)",
+      50,
+      0.18,
+      0.0169
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 35/45",
+      "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      27.7594
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      5.0641
+    ]
+  ],
+  "GDe 44 Unterzugdecke (Hohlkoerper)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.22
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.0136
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      25.1137
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      5.1261
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.5358
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.88
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.5
+    ]
+  ],
+  "GDe 36 Unterzugdecke": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2604
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.24m)",
+      50,
+      0.24,
+      0.0169
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      26.3745
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      5.0641
+    ]
+  ],
+  "GDe 32 Flachdecke (8,1 m) (Hohlkoerper)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.21m)",
+      50,
+      0.21,
+      0.2118
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 35/45",
+      "Beton der Druckfestigkeitsklasse C 35/45(Dicke: 0.127m)",
+      50,
+      0.127,
+      0.0127
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      40,6002
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.13
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.7839
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.88
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.5
+    ]
+  ],
+  "GDe 30 Flachdecke (8,1 m) (Hohlkoerper)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.225m)",
+      50,
+      0.225,
+      0.225
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      36.3963
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.2
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.7839
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.88
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.5
+    ]
+  ],
+  "GDe 21 Flachdecke (Hohlkoerper)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2229
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      33.6089
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.2
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.8706
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.88
+    ],
+    [
+      "Strom fuer Gebaeudebetrieb 2018",
+      "Strom fuer Gebaeudebetrieb 2018(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.5
+    ]
+  ],
+  "GDe 12 Flachdecke (8,1 m)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2795
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.015m)",
+      50,
+      0.015,
+      0.0146
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      46.5049
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.2
+    ]
+  ],
+  "GDe 10 Flachdecke (8,1 m)": [
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+      50,
+      0.3,
+      0.2943
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      44.9976
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.29
+    ]
+  ],
+  "GDe 5 Flachdecke": [
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2757
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      33.6089
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.24
+    ]
+  ],
+  "IW 1 GK (zweilagig) (EI 30)": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm",
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW75",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW75(Dicke: 0.075m)",
+      50,
+      0.075,
+      2.45
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm",
+      "Knauf GaBi Gipskartonplatten GKB Bauplatte und GKBI Bauplatte impraegniert 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "IW 2 GK (dreilagig) (EI 90)": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)",
+      50,
+      0.0375,
+      3.0
+    ],
+    [
+      "Stahl Feinblech (20 bandverzinkt)",
+      "Stahl Feinblech (20 bandverzinkt)(Dicke: 0.0005m)",
+      50,
+      0.0005,
+      3.925
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW75",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100(Dicke: 0.0001m)",
+      50,
+      0.075,
+      2.45
+    ],
+    [
+      "Stahl Feinblech (20 bandverzinkt)",
+      "Stahl Feinblech (20 bandverzinkt)(Dicke: 0.0005m)",
+      50,
+      0.0005,
+      3.925
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0375m)",
+      50,
+      0.0375,
+      3.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "IW 3 GK (zweilagig) (EI 90)": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.03125
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100(Dicke: 0.0001m)",
+      50,
+      0.075,
+      2.45
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.03125
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW75",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW75(Dicke: 0.075m)",
+      50,
+      0.075,
+      2.45
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.025m)",
+      50,
+      0.025,
+      2.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "IW 4 LENO": [
+    [
+      "Brettsperrholz (Durchschnitt DE)",
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.1m)",
+      50,
+      0.1,
+      0.1
+    ]
+  ],
+  "IW 5 LENO GK (einlagig) (REI 60)": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ],
+    [
+      "Brettsperrholz (Durchschnitt DE)",
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.08m)",
+      50,
+      0.08,
+      0.08
+    ],
+    [
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm",
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+      50,
+      0.0125,
+      1.0
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "IW 6 Lindner Logic 100": [
+    [
+      "Spanplatte - melaminbeschichtet (Durchschnitt DE)",
+      "Spanplatte - melaminbeschichtet (Durchschnitt DE)(Dicke: 0.013m)",
+      50,
+      0.013000000000000001,
+      0.013
+    ],
+    [
+      "Pulverbeschichten von Metallen",
+      "Pulverbeschichten von Metallen(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.1
+    ],
+    [
+      "Stahlprofil",
+      "Stahlprofil(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.44
+    ],
+    [
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich",
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      2.9952
+    ],
+    [
+      "Spanplatte - melaminbeschichtet (Durchschnitt DE)",
+      "Spanplatte - melaminbeschichtet (Durchschnitt DE)(Dicke: 0.013m)",
+      50,
+      0.013000000000000001,
+      0.013
+    ]
+  ],
+  "IW 7 Lindner Life Stereo 125 (ESG)": [
+    [
+      "Glas - Bundesverband Flachglas e.V. - Einscheibensicherheitsglas",
+      "Glas - Bundesverband Flachglas e.V. - Einscheibensicherheitsglas(Dicke: 0.006m)",
+      50,
+      0.006,
+      1.0
+    ],
+    [
+      "Pulverbeschichten von Metallen",
+      "Pulverbeschichten von Metallen(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.1
+    ],
+    [
+      "Stahlprofil",
+      "Stahlprofil(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.08
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      2.08
+    ],
+    [
+      "Aluminiumprofil beschichtet",
+      "Aluminiumprofil beschichtet(Dicke: 0.002m)",
+      50,
+      0.002,
+      4.4
+    ],
+    [
+      "Glas - Bundesverband Flachglas e.V. - Einscheibensicherheitsglas",
+      "Glas - Bundesverband Flachglas e.V. - Einscheibensicherheitsglas(Dicke: 0.006m)",
+      50,
+      0.006,
+      1.0
+    ]
+  ],
+  "IW 8 Lindner Life Stereo 125 (VSG)": [
+    [
+      "Glas - Bundesverband Flachglas e.V. - Verbundsicherheitsglas",
+      "Glas - Bundesverband Flachglas e.V. - Verbundsicherheitsglas(Dicke: 0.006m)",
+      50,
+      0.006,
+      1.0
+    ],
+    [
+      "Pulverbeschichten von Metallen",
+      "Pulverbeschichten von Metallen(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      0.1
+    ],
+    [
+      "Stahlprofil",
+      "Stahlprofil(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      1.08
+    ],
+    [
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100",
+      "Profil - Koenig GmbH & Co. KG - Wandprofil verzinkt CW100(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      2.08
+    ],
+    [
+      "Aluminiumprofil beschichtet",
+      "Aluminiumprofil beschichtet(Dicke: 0.002m)",
+      50,
+      0.002,
+      4.4
+    ],
+    [
+      "Glas - Bundesverband Flachglas e.V. - Verbundsicherheitsglas",
+      "Glas - Bundesverband Flachglas e.V. - Verbundsicherheitsglas(Dicke: 0.006m)",
+      50,
+      0.006,
+      1.0
+    ]
+  ],
+  "IW 9 Stb. Innenputz/Spachtelung": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.25
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      28.75
+    ],
+    [
+      "Gipsputz (Gips)",
+      "Gipsputz (Gips)(Dicke: 0.01m)",
+      50,
+      0.01,
+      0.01
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "IW 10 Stb.-Fertigteil u. Fliesen": [
+    [
+      "Steinzeugfliesen glasiert (Dicke 0.01 m)",
+      "Steinzeugfliesen glasiert (Dicke 0.01 m)(Dicke: 0.01m)",
+      50,
+      0.01,
+      1.0
+    ],
+    [
+      "Fliesenkleber",
+      "Fliesenkleber(Dicke: 0.0001m)",
+      50,
+      0.0001,
+      2.0
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      28.75
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 30/37",
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.25
+    ]
+  ],
+  "IW 11 Kalksandstein": [
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.002m)",
+      50,
+      0.002,
+      3.2
+    ],
+    [
+      "Kalksandstein",
+      "Kalksandstein(Dicke: 0.115m)",
+      50,
+      0.115,
+      0.115
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.002m)",
+      50,
+      0.002,
+      3.2
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      50,
+      0.00015,
+      0.24
+    ],
+    [
+      "Innenfarbe Dispersionsfarbe scheuerfest",
+      "Innenfarbe Dispersionsfarbe scheuerfest(Dicke: 0.00015m)",
+      5,
+      0.00015,
+      0.24
+    ]
+  ],
+  "DK B1 (Warmdach mit Bitumen, Kies)": [
+    [
+      "Kies 2/32",
+      "Kies 2/32(Dicke: 0.005m)",
+      30,
+      0.005,
+      80.0
+    ],
+    [
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)",
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)",
+      30,
+      0.008,
+      2.0
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)",
+      "EPS-Hartschaum (Rohdichte 20 kg/m3)(Dicke: 0.14m)",
+      30,
+      0.14,
+      0.14
+    ],
+    [
+      "Bitumenbahnen G 200 S4 (Dicke 0.004 m)",
+      "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)",
+      30,
+      0.004,
+      1.0
+    ],
+    [
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)",
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+      30,
+      0.003,
+      0.15
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.24
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      33.6089
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      0.2757
+    ]
+  ],
+  "DK B2 (Warmdach mit Begruenung/ Retentionsdach)": [
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      30,
+      0.0005,
+      33.6089
+    ],
+    [
+      "Blaehschiefer",
+      "Blaehschiefer(Dicke: 0.05m)",
+      30,
+      0.05,
+      0.24
+    ],
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      30,
+      0.0005,
+      0.15
+    ],
+    [
+      "PVC-Dachbahnen (Dicke 0.0012 m)",
+      "PVC-Dachbahnen (Dicke 0.0012 m)(Dicke: 0.0012m)",
+      30,
+      0.0012,
+      0.666
+    ],
+    [
+      "PU-Daemmplatten mit Mineralvlies-Deckschicht",
+      "PU-Daemmplatten mit Mineralvlies-Deckschicht(Dicke: 0.08m)",
+      30,
+      0.08,
+      3.29
+    ],
+    [
+      "Bitumenbahnen G 200 S4 (Dicke 0.004 m)",
+      "Bitumenbahnen G 200 S4 (Dicke 0.004 m)(Dicke: 0.004m)",
+      30,
+      0.004,
+      0.01
+    ],
+    [
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)",
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+      30,
+      0.003,
+      1.0
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      36.5
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.0
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C 25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      70.0
+    ]
+  ],
+  "DK B3 (Umkehrdach mit Kies)": [
+    [
+      "Kies 2/32",
+      "Kies 2/32(Dicke: 0.005m)",
+      30,
+      0.005,
+      0.2757
+    ],
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      30,
+      0.0005,
+      33.6089
+    ],
+    [
+      "Styrodur",
+      "Styrodur(R)(Dicke: 0.14m)",
+      30,
+      0.14,
+      0.24
+    ],
+    [
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)",
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.004m)",
+      30,
+      0.004,
+      0.15
+    ],
+    [
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)",
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+      30,
+      0.003,
+      1.0
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.167
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.01
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      80.0
+    ]
+  ],
+  "DK B4 (Umkehrdach mit Begruenung extensiv)": [
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      30,
+      0.0005,
+      33.6089
+    ],
+    [
+      "Blaehschiefer",
+      "Blaehschiefer(Dicke: 0.05m)",
+      30,
+      0.05,
+      0.24
+    ],
+    [
+      "PE/PP Vlies",
+      "PE/PP Vlies(Dicke: 0.0005m)",
+      30,
+      0.0005,
+      0.15
+    ],
+    [
+      "Styrodur",
+      "Styrodur(Dicke: 0.14m)",
+      30,
+      0.14,
+      2.0
+    ],
+    [
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)",
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.008m)",
+      30,
+      0.008,
+      1.167
+    ],
+    [
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)",
+      "Bitumen Emulsion (40% Bitumen. 60% Wasser)(Dicke: 0.003m)",
+      30,
+      0.003,
+      1.0
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      36.5
+    ],
+    [
+      "Bewehrungsstahl",
+      "Bewehrungsstahl(Dicke: 0.25m)",
+      50,
+      0.25,
+      1.0
+    ],
+    [
+      "Beton der Druckfestigkeitsklasse C 25/30",
+      "Beton der Druckfestigkeitsklasse C25/30(Dicke: 0.28m)",
+      50,
+      0.28,
+      70.0
+    ]
+  ],
+  "FD 1 Flachdach": [
+    [
+      "Spannbeton-Fertigteildecken",
+      "Spannbeton-Fertigteildecken(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.943
+    ],
+    [
+      "Dampfbremse PE (Dicke 0.0002 m)",
+      "Dampfbremse PE (Dicke 0.0002 m)(Dicke: 0.004m)",
+      50,
+      0.004,
+      2.0
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 15 kg/m3)",
+      "EPS-Hartschaum(Rohdichte 15kg/m3)(Dicke: 0.3m)",
+      50,
+      0.3,
+      0.3
+    ],
+    [
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)",
+      "Bitumenbahnen PYE PV 200 S5 (ungeschiefert) (Dicke 0.004 m)(Dicke: 0.01m)",
+      30,
+      0.01,
+      2.0
+    ],
+    [
+      "Glasvlies",
+      "Glasvlies(Dicke: 0.003m)",
+      50,
+      0.003,
+      1.0
+    ],
+    [
+      "Kies 2/32 getrocknet",
+      "Kies 2/32 getrocknet(Dicke: 0.06m)",
+      50,
+      0.06,
+      108.0
+    ]
+  ],
+  "TD 1 Trenndecke": [
+    [
+      "TAKE A WALK - getuftete Teppichfliesen",
+      "TAKE A WALK - getuftete Teppichfliesen(Dicke: 0.01m)",
+      10,
+      0.01,
+      1.0
+    ],
+    [
+      "Zementestrich",
+      "Zementestrich(Dicke: 0.06m)",
+      50,
+      0.06,
+      120.0
+    ],
+    [
+      "Dampfbremse PE (Dicke 0.0002 m)",
+      "Dampfbremse PE (Dicke 0.0002 m)(Dicke: 0.0002m)",
+      50,
+      0.0002,
+      1.0
+    ],
+    [
+      "Holzfaserdaemmplatten",
+      "Holzfaserdaemmplatten(Dicke: 0.025m)",
+      50,
+      0.025,
+      0.02
+    ],
+    [
+      "EPS-Hartschaum (Rohdichte 25 kg/m3)",
+      "EPS-Hartschaum(Rohdichte 25kg/m3)(Dicke: 0.06m)",
+      50,
+      0.06,
+      0.06
+    ],
+    [
+      "Spannbeton-Fertigteildecken",
+      "Spannbeton-Fertigteildecken(TD)(Dicke: 0.25m)",
+      50,
+      0.25,
+      0.943
+    ]
+  ]
+}
