@@ -1,0 +1,120 @@
+{
+    "AW 1 Stb. WDVS (MW)": {
+        "type": "OpaqueConstructionAbridged",
+        "identifier": "AW 1 Stb. WDVS (MW)",
+        "materials": [
+          "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)",
+          "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+          "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+          "Gipsputz (Gips)(Dicke: 0.01m)"
+        ]
+    },
+    "AW 5 LENO": {
+        "type": "OpaqueConstructionAbridged",
+        "identifier": "AW 5 LENO",
+        "materials": [
+          "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)",
+          "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+          "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)",
+          "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)"
+        ]
+      },
+      "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)": {
+        "type": "EnergyMaterial",
+        "identifier": "WDVS Verklebung und Beschichtung Silikat-Dispersionsputz(Dicke: 0.01m)",
+        "roughness": "MediumRough",
+        "thickness": 0.01,
+        "conductivity": 0.01,
+        "density": 1855.102485,
+        "specific_heat": 836.8200836820084,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7000000000000001,
+        "visible_absorptance": 0.8
+      },
+      "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)": {
+        "type": "EnergyMaterial",
+        "identifier": "ROCKWOOL Steinwolle-Daemmstoff im mittleren Rohdichtebereich(Dicke: 0.22m)",
+        "roughness": "MediumRough",
+        "thickness": 0.22,
+        "conductivity": 0.038,
+        "density": 96.0,
+        "specific_heat": 1129.707112970711,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7000000000000001,
+        "visible_absorptance": 0.8
+      },
+      "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)": {
+        "type": "EnergyMaterial",
+        "identifier": "Beton der Druckfestigkeitsklasse C 30/37(Dicke: 0.3m)",
+        "roughness": "MediumRough",
+        "thickness": 0.3,
+        "conductivity": 2.1,
+        "density": 2200.0,
+        "specific_heat": 832.019966527197,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7,
+        "visible_absorptance": 0.7
+      },
+      "Gipsputz (Gips)(Dicke: 0.01m)": {
+        "type": "EnergyMaterial",
+        "identifier": "Gipsputz (Gips)(Dicke: 0.01m)",
+        "roughness": "Smooth",
+        "thickness": 0.01,
+        "conductivity": 0.2,
+        "density": 1000.0,
+        "specific_heat": 1089.29718545594,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7,
+        "visible_absorptance": 0.5
+      },
+      "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)": {
+        "type": "EnergyMaterial",
+        "identifier": "Schnittholz Laerche (generisch. 12% Feuchte/10.7% H2O)(Dicke: 0.05m)",
+        "roughness": "MediumSmooth",
+        "thickness": 0.05,
+        "conductivity": 0.11,
+        "density": 661.0,
+        "specific_heat": 1628.94900210384,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.5,
+        "visible_absorptance": 0.5
+      },
+      "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)": {
+        "type": "EnergyMaterial",
+        "identifier": "ROCKWOOL Steinwolle-Daemmstoff im niedrigen Rohdichtebereich(Dicke: 0.2m)",
+        "roughness": "MediumRough",
+        "thickness": 0.2,
+        "conductivity": 0.038,
+        "density": 96.0,
+        "specific_heat": 1129.707112970711,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7000000000000001,
+        "visible_absorptance": 0.8
+      },
+      "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)": {
+        "type": "EnergyMaterial",
+        "identifier": "Brettsperrholz (Durchschnitt DE)(Dicke: 0.09m)",
+        "roughness": "Smooth",
+        "thickness": 0.09,
+        "conductivity": 0.13,
+        "density": 500.0,
+        "specific_heat": 1882.845188284519,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7000000000000001,
+        "visible_absorptance": 0.7000000000000001
+      },
+      "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)": {
+        "type": "EnergyMaterial",
+        "identifier": "Knauf GaBi Gipskartonplatten Feuerschutz - GKF und GKFI - 12.5 mm(Dicke: 0.0125m)",
+        "roughness": "MediumSmooth",
+        "thickness": 0.0125,
+        "conductivity": 0.6,
+        "density": 800.0,
+        "specific_heat": 1089.29718545594,
+        "thermal_absorptance": 0.9,
+        "solar_absorptance": 0.7,
+        "visible_absorptance": 0.7
+      }
+
+    
+}

@@ -1,0 +1,28 @@
+{
+    "weight_gwp": 0.616,
+    "weight_p_hierachy": [
+        1, 
+        1, 
+        0.5
+    ],        
+    "weight_penalty": 0.5,                       
+    "items_p_func": [
+           "exp",                              
+           "sqrt",                             
+           "linear",                           
+           "sqrt",                             
+           "sqrt",                             
+           "linear",                           
+           "sqrt",                             
+           "sqrt",                             
+           "sqrt",                             
+           "linear",                          
+           "sqrt",                             
+           "sqrt",                             
+           "sqrt",                             
+           "sqrt"                              
+       ],
+    "item_strategy": "weighted_prod",         
+    "p_strategy": "weighted_prod",             
+    "c_strategy": "weighted_prod"              
+   }
