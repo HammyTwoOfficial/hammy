@@ -1,0 +1,206 @@
+[
+    {
+        "Building ID": "0430161431442892",
+        "Budget of Quantity": {
+            "RoofCeiling": [
+                [
+                    "FD 1 Flachdach",
+                    2207.84350564612,
+                    0.30971881936804363
+                ]
+            ],
+            "Floor": [
+                [
+                    "TD 1 Trenndecke",
+                    10768.818353484792,
+                    null
+                ]
+            ],
+            "ExWall": [
+                [
+                    "AW 2 Stb. WDVS (EPS) 0.152",
+                    1645.6664739681519,
+                    0.22712713420323202
+                ]
+            ],
+            "InWall": [
+                [
+                    "IW 5 LENO GK (einlagig) (REI 60)",
+                    3421.491279804641,
+                    null
+                ]
+            ],
+            "Window": [
+                [
+                    "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+                    3035.4625680322415,
+                    null
+                ]
+            ],
+            "GlsRoof": [
+                [
+                    "AW 15 Pfosten-Riegel Alu",
+                    487.23219460491254,
+                    null
+                ]
+            ],
+            "GlsWall": [
+                [
+                    "AW 15 Pfosten-Riegel Alu",
+                    0,
+                    null
+                ]
+            ]
+        },
+        "Performance": {
+            "Shape Factors": {
+                "Max. Flr Nr": 6,
+                "Total Area [m]": 10768.818353484792,
+                "Wall to Flr Ratio": 0.15281773913807487,
+                "Shape Coefficient": 0.08244397128730252,
+                "Avg. Building Depth": 10.990932068211137,
+                "Courtyard Depth": 32.11612374740111
+            },
+            "Window / Glass Factors": {
+                "Window Ratio Avg.": 0.6484466761751762,
+                "Window Ratio South": 0.7458797919337514,
+                "Window Ratio North": 0.6000779044918945,
+                "Facade Glass Ratio": 1.8445186895695282,
+                "Envelop Glass Ratio": 0.8115420407964726,
+                "Glass to Floor Ratio South": 0.14420637983878173
+            },
+            "Orientation Factors": {
+                "Facade South to West Ratio": 0.7665966831996365
+            },
+            "Form Factors": {
+                "Courtyard Form Factor": 2,
+                "Building Form Factor": 6
+            },
+            "Material Factors": {
+                "Material System": 2,
+                "Insulation Thickness ExWall": 0.22712713420323202,
+                "Insulation Thickness RoofCeiling": 0.30971881936804363,
+                "U-Value ExWall": 0.13347740834931798,
+                "U-Value RoofCeiling": 0.10775270259278547
+            },
+            "Energy Demands": {
+                "Energy Demand Heating [MJ/m2]": 139.73,
+                "Energy Demand Cooling [MJ/m2]": 49.23,
+                "Total Energy Demand [MJ/m2]": 188.95999999999998
+            },
+            "Carbon Footprints": {
+                "GWP in Moduels [CO2 eq.kg/m2/a]": [
+                    3.4268358654358657,
+                    1.4749279589129713,
+                    0.9453133637125856,
+                    -1.1014764594984718
+                ],
+                "GWP Embedded [CO2 eq.kg/m2/a]": 4.745600728562951,
+                "GWP Operational [CO2 eq.kg/m2/a]": 32.700577777777774,
+                "GWP Total [CO2 eq.kg/m2/a]": 37.44617850634072
+            }
+        }
+    },
+    {
+        "Building ID": "0430161442369523",
+        "Budget of Quantity": {
+            "RoofCeiling": [
+                [
+                    "FD 1 Flachdach",
+                    4489.401238631288,
+                    0.24317297209389838
+                ]
+            ],
+            "Floor": [
+                [
+                    "TD 1 Trenndecke",
+                    9460.979111278551,
+                    null
+                ]
+            ],
+            "ExWall": [
+                [
+                    "AW 7 Holzrahmen (MW) 0.237",
+                    1594.7335995048406,
+                    0.0810576573646328
+                ]
+            ],
+            "InWall": [
+                [
+                    "IW 5 LENO GK (einlagig) (REI 60)",
+                    0,
+                    null
+                ]
+            ],
+            "Window": [
+                [
+                    "FE 1 Aluminium Fenster mit 3-Fach Verglasung",
+                    5633.362206955966,
+                    null
+                ]
+            ],
+            "GlsRoof": [
+                [
+                    "AW 15 Pfosten-Riegel Alu",
+                    0,
+                    null
+                ]
+            ],
+            "GlsWall": [
+                [
+                    "AW 15 Pfosten-Riegel Alu",
+                    0,
+                    null
+                ]
+            ]
+        },
+        "Performance": {
+            "Shape Factors": {
+                "Max. Flr Nr": 7,
+                "Total Area [m]": 9460.979111278551,
+                "Wall to Flr Ratio": 0.16855904455002324,
+                "Shape Coefficient": 0.15131215506843157,
+                "Avg. Building Depth": 11.127092441338243,
+                "Courtyard Depth": 27.68706943657353
+            },
+            "Window / Glass Factors": {
+                "Window Ratio Avg.": 0.7793701630131419,
+                "Window Ratio South": 0.9545500311852859,
+                "Window Ratio North": 0.6000110978778096,
+                "Facade Glass Ratio": 3.532478533533818,
+                "Envelop Glass Ratio": 0.925910151044868,
+                "Glass to Floor Ratio South": 0.38649796772267125
+            },
+            "Orientation Factors": {
+                "Facade South to West Ratio": 1.9504086946204549
+            },
+            "Form Factors": {
+                "Courtyard Form Factor": 1,
+                "Building Form Factor": 6
+            },
+            "Material Factors": {
+                "Material System": 1,
+                "Insulation Thickness ExWall": 0.0810576573646328,
+                "Insulation Thickness RoofCeiling": 0.24317297209389838,
+                "U-Value ExWall": 0.360464994911519,
+                "U-Value RoofCeiling": 0.13551604945385953
+            },
+            "Energy Demands": {
+                "Energy Demand Heating [MJ/m2]": 260.61,
+                "Energy Demand Cooling [MJ/m2]": 48.56,
+                "Total Energy Demand [MJ/m2]": 309.17
+            },
+            "Carbon Footprints": {
+                "GWP in Moduels [CO2 eq.kg/m2/a]": [
+                    5.264448353102867,
+                    1.7542441235111172,
+                    0.6714095941699705,
+                    -1.6519308318680987
+                ],
+                "GWP Embedded [CO2 eq.kg/m2/a]": 6.038171238915855,
+                "GWP Operational [CO2 eq.kg/m2/a]": 53.50358611111111,
+                "GWP Total [CO2 eq.kg/m2/a]": 59.54175735002697
+            }
+        }
+    }
+]
