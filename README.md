@@ -8,4 +8,4 @@ required packages:
     numpy==1.26.4
 
 demo video link
- [![IMAGE ALT TEXT HERE](https://github.com/HammyTwoOfficial/hammy/blob/main/img.png)](https://www.youtube.com/watch?v=PNfcFzhv0JM)
+ [![IMAGE ALT TEXT HERE](https://github.com/HammyTwoOfficial/hammy/blob/main/img.png)](https://youtu.be/O9utH1NfYd4)
